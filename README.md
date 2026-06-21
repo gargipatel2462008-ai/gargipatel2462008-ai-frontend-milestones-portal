@@ -12,19 +12,19 @@ Welcome to my professional frontend engineering tracking portal. This workspace 
 
 ---
 
-## 🚀 Track Milestones (Core Projects)
+## 🚀 Track Milestones (Live Projects)
 
-This interface aggregates and indexes my core technical milestones, pointing directly to individual codebases:
+This interface aggregates and indexes my core technical milestones, running directly on live deployment environments:
 
-### 📁 [Project 01: Static Webpage Design](https://github.com/gargipatel2462008-ai/gargipatel2462008-ai-gargipatel-frontend-dev)
+### 🌐 [Project 01: Live Static Webpage](https://gargipatel2462008-ai.github.io/gargipatel2462008-ai-gargipatel-frontend-dev/)
 * **Core Focus:** Structural HTML5 semantic architecture, clean document skeletons, and standard CSS document layouts.
 * **Tech Stack:** HTML5 Semantic Engine, CSS3 Layout Standards.
 
-### 📁 [Project 02: Responsive Web Layout](https://github.com/gargipatel2462008-ai/gargipatel2462008-ai-gargipatel-responsive-web-layout)
+### 🌐 [Project 02: Live Responsive Web Layout](https://gargipatel2462008-ai.github.io/gargipatel2462008-ai-gargipatel-responsive-web-layout/)
 * **Core Focus:** Advanced viewport fluid scaffolding using CSS Grid and Flexbox matrices. Fully optimized for cross-device viewports.
 * **Tech Stack:** CSS Grid Framework, Flexbox Layouts, Responsive Web Design (RWD).
 
-### 📁 [Project 03: Interactive Web Elements](https://github.com/gargipatel2462008-ai/gargipatel2462008-ai-gargipatel-advanced-layout-frameworks)
+### 🌐 [Project 03: Live Interactive Web Elements](https://gargipatel2462008-ai.github.io/gargipatel2462008-ai-gargipatel-advanced-layout-frameworks/)
 * **Core Focus:** Client-side behavioral processing, input capture, and functional state rendering engines.
 * **Tech Stack:** Vanilla JavaScript Core, Native DOM Web APIs.
 
